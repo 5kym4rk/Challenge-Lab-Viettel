@@ -39,7 +39,7 @@
    ```bash
    minikube service static-web-service
 
-7. Truy cập vào trang web ở đường dẫn URL dưới dòng "Starting tunnel for service static-web-service" trong Terminal vì sử dụng tunnel (127.0.0.1:port) thường đáng tin cậy hơn trên Windows.
+7. Truy cập vào trang web ở đường dẫn URL dưới dòng "Starting tunnel for service static-web-service" trong Terminal
 
 ## Cách thực hiện lab3
 
@@ -70,4 +70,4 @@
    ```bash
    minikube service web2
 
-8. Truy cập vào trang web ở đường dẫn URL dưới dòng "Starting tunnel for service web1/web2" trong Terminal vì sử dụng tunnel (127.0.0.1:port) thường đáng tin cậy hơn trên Windows.
+8. Truy cập vào trang web ở đường dẫn URL dưới dòng "Starting tunnel for service web1/web2" trong Terminal
